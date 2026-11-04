@@ -1,0 +1,11 @@
+{
+  "name": "tiny-text-stats",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Count words, lines, characters, and reading time locally.",
+  "type": "module",
+  "author": "Nalkyrrr",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test" }
+}
